@@ -1,0 +1,22 @@
+{
+  "AuthStack": {
+    "ExportsOutputFnGetAttCxportaluserPool9598E468Arn85A66BDF": "arn:aws:cognito-idp:us-west-2:538886534983:userpool/us-west-2_B9jhkWeD5",
+    "CxPortalResourcePoolClientId": "7rte4gfprmptloipdflhmql7k7",
+    "CxportaluserPoolId": "us-west-2_B9jhkWeD5",
+    "SpaceIdentityPoolId": "us-west-2:d5f5c6ab-5159-4eb1-a806-814eb83e6f2c"
+  },
+  "DataStack": {
+    "ExportsOutputRefSpacesTable8A9973559FB4B87D": "SpaceTable-0606f35d3edf",
+    "SpaceFinderPhotosBucketName": "space-finder-photos-0606f35d3edf",
+    "ExportsOutputFnGetAttSpacesTable8A997355Arn242927FE": "arn:aws:dynamodb:us-west-2:538886534983:table/SpaceTable-0606f35d3edf"
+  },
+  "UiDeploymentStack": {
+    "cxportaluideploymentS3Url": "d1po1zthaq7x4g.cloudfront.net"
+  },
+  "LambdaStack": {
+    "ExportsOutputFnGetAttCxPortalLambda601D0BA4Arn6FC729AB": "arn:aws:lambda:us-west-2:538886534983:function:LambdaStack-CxPortalLambda601D0BA4-e1eWYqaFcz3a"
+  },
+  "ApiStack": {
+    "CxPortalApiEndpoint950BEE11": "https://c5law5tdl4.execute-api.us-west-2.amazonaws.com/prod/"
+  }
+}
